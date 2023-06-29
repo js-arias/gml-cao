@@ -75,6 +75,19 @@ of your publication,
 it might be a good idea to link this repository
 and help others to replicate or re-use your analysis.
 
+## Disclaimer
+
+As the models are a product of a pixelation of vectorial models,
+it is possible that some pixels will not be defined
+particularly in the boundaries of plates.
+Depending on the usage given to the models,
+this problems will be only annoying
+(for example,
+a deep ocean pixel in the middle of a continent),
+or it can be critical
+(if the feature of interest is near this absent pixels).
+So be careful when using the models.
+
 ## References
 
 Cao, W. et al.
